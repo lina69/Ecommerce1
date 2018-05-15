@@ -1,0 +1,15 @@
+/* RIGHT TO LEFT */
+/* RIGHT TO LEFT */
+#new-products_block_right .block_content {
+  padding: 0 0 20px 0;
+}
+#new-products_block_right .block_content .products li:last-child {
+  border: 0;
+}
+#new-products_block_right .block_content .button-small {
+  margin-left: 10px;
+}
+.rtl #new-products_block_right .block_content .button-small {
+  margin-right: 10px;
+  /* margin-left: $inherit; */
+}

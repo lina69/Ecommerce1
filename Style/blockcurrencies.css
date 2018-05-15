@@ -1,0 +1,12 @@
+/* RIGHT TO LEFT */
+/* RIGHT TO LEFT */
+#currencies-block-top {
+  float: right;
+  position: relative;
+}
+.rtl #currencies-block-top {
+  float: left;
+}
+#currencies-block-top span.firstWord {
+  display: none;
+}
