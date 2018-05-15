@@ -1,0 +1,186 @@
+/*header section goes here*/
+#header{
+	background-color:#e9e9ea;
+	padding-bottom:15px;
+	position:relative;
+}
+.countries{
+	padding-top:15px;
+	padding-left:0px;
+	margin:0px;
+} 
+
+.countries ul{
+	margin-left:0px;
+}
+.countries li{
+	display:inline;
+	padding-right:6px;
+	float:left;
+	margin:0px;
+	
+}
+.fa-euro{
+	color:#818181;
+}
+.fa-euro:hover{
+	color:#000;
+}
+.fa-gbp{
+	color:#818181;
+}
+.fa-gbp:hover{
+	color:#000;
+}
+.fa-usd {
+	color:#818181;
+}
+.fa-usd:hover{
+	color:#000;
+}
+.account p{
+	color:#626262;
+	font-size:16px;
+	float:right;
+	padding-top:15px;
+	
+}
+#header .header_menu li{
+	float:right;
+	display:inline;
+	padding:13px;
+	padding-left:5px;
+	padding-top:15px;
+	padding-bottom:15px;
+	font-size:16px;
+}
+
+#header .header_menu li a{
+	color:#909091;
+}
+
+.cart{
+	color:#898989;
+	float:right;
+}
+.fa-cart-arrow-down{
+ color:#fff;
+ background-color: #30ade7;
+ border-radius: 50%;
+ border: 1x solid #30ade7;
+ padding:10px;
+}
+
+ .cart .fa-caret-down{
+	 color:#898989;
+ }
+.settings{
+	width:35px;
+	height:45px;
+	position:absolute;
+	top:70px;
+	background:white;	
+	box-shadow:5px 5px 5px #888;
+}
+
+.fa-cog{
+	color:black;
+	position:absolute;
+	top:15px;
+	right:12px;
+}
+/* Header section ends here*/
+
+/**********************************************
+Navbar section goes here***********************/
+.navbar{
+	margin:;
+}
+.navbar-default{
+	background-color:#38b1e9;
+}
+.navbar-brand{
+	position:absolute;
+	top:-22px;
+}
+.navbar-default .navbar-nav > li > a{
+	color:#fff;
+	font-size:16px;
+	padding-right:25px;
+}
+.caret{
+ border-radius: 50%;
+ border: 1x solid #fff;
+ 
+}
+
+/* Contact section goes here*/
+
+#contact{
+	margin:0px;
+	background-color:#333333;
+	color:#fff;
+}
+.social-icon a{
+	background:#444444;
+	border: 1px solid #333333;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 0px;
+    color: #a8a8a8;
+    display: block;
+    font-size: 18px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    width: 40px; 
+	padding-left:0px;
+}
+.about ul{
+	margin-left:0px;
+	float:left;
+	padding-left:0px;	
+}
+.about ul li{
+	margin:0px;
+	list-style-type:none;
+	padding-bottom:15px;
+	color:#a8a8a8;
+}
+#contact1{
+	float:left;
+}
+.logos{
+	padding:0px;
+	margin:0px;
+}
+#col1{
+	padding-left:0px;
+	padding-right:0px;
+	margin:0px;
+	float:left;
+}
+#col2{
+	padding-left:0px;
+	padding-right:0px;
+	margin:0px;
+	float:left;
+}
+#col3{
+	padding-left:0px;
+	padding-right:0px;
+	margin:0px;
+	float:left;
+}
+.col-md-4
+{
+	margin:0px;
+	padding:0px;
+}
+.img1{
+	padding-bottom:2px;
+	padding-top:2px;
+	height:55px;
+	width:70px;
+	
+}
